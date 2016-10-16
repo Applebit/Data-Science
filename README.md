@@ -1,7 +1,8 @@
 #Data Analysis Using Pandas
 
-Repository contains ipython notebook to start with the pandas for data analysis.Pandas is a very good library for understating data for more info please follow
-http://pandas.pydata.org
+Repository is basically using machine learning python package scikit-learn to use machine learning algorithms and also contains file where i have written machine learning algorithms in python.
+
+Stock visualization has been also done using matplotlib.
 
 
 #Software Requiered 
