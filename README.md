@@ -1,4 +1,4 @@
-#Data Analysis Using Pandas
+#Machine Learning in Python
 
 Repository is basically using machine learning python package scikit-learn to use machine learning algorithms and also contains file where i have written machine learning algorithms in python.
 
